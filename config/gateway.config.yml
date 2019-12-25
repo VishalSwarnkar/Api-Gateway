@@ -20,7 +20,7 @@ serviceEndpoints:
   httpbin:
     url: "https://httpbin.org"
   restaurant-order-service-endpoints:
-    url: "http://localhost:3000/"
+    url: "http://localhost:3001/"
 policies:
   - basic-auth
   - cors
